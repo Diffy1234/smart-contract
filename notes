@@ -1,0 +1,13 @@
+;; bitcoin to SPTC
+;; op-return: mint spt 
+;; asset.clarity, line140, 
+;; unwrap-panic: built in function.
+
+;; Devenvhelper 
+;; threathhold wallet 
+;; sbtcDepositHelper
+;; Satoshis...
+;; utxos, 
+;; psbt, multiple party dont have to sign at the same time, partial spent.
+;; sptc happen first during transaction.
+
